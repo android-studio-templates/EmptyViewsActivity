@@ -1,0 +1,3 @@
+# EmptyViewsActivity
+
+### Android Studio Template
